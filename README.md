@@ -1,24 +1,24 @@
-# vuemodule
+# Vue Application
+> Description
+How to setup a vue.js application decipting a list of drinks
 
-## Project setup
-```
-npm install
-```
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Contact](#contact)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## General info
+A module assignment in Vue.js displaying a simple list and implementation in a README file. 
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Technologies
+* Vue.js - Version 2.6.11
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Setup
+Copy all the files from the directories.
+
+
+## Contact
+Created by [@sarasorensen](https://www.sarasorensen.com) 
